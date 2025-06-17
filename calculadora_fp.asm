@@ -1,5 +1,5 @@
 ; ===============================================================================
-; CALCULADORA 64-BITS (PONTO FLUTUANTE) - VERSÃO ROBUSTA
+; CALCULADORA 64-BITS (PONTO FLUTUANTE)
 ; Montador: NASM
 ; Plataforma: Linux 64-bit (vinculado com libc)
 ;
